@@ -9,7 +9,7 @@ class TestListView(QtGui.QDialog):
         self.setAcceptDrops(True)
         #self.setIconSize(QtCore.QSize(72, 72))
         self.createFilesTable()
-        findButton = self.createButton("&Find", self.find)
+        findButton = self.createButton("&Decode", self.find)
         buttonsLayout = QtGui.QHBoxLayout()
         buttonsLayout.addStretch()
         buttonsLayout.addWidget(findButton)
