@@ -1,1 +1,7 @@
-#this is a pyqt gui app for decode the unicodes text ! that can be use for sevral purpose like "subtitles"  with ability to <a herf="">drag & drop</a> or brows files! 
+##An APP writen in PyQt for decode the unicode text! that can be use for sevral purpose like refine the subtitles.
+
+###this applications is contain the following futures (for now):
+
+-Ability to drag and drop the files!
+-Browsing!
+-process multiple files in one time! 
